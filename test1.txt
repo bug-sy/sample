@@ -4,8 +4,4 @@ dfslsjflsjflkj
 sdlfjklsjflj
 jflksjflksjflkjs
 gdgdgdgsdg
-<<<<<<< HEAD
-fsdffsfas
-=======
 asdfasfasf
->>>>>>> 9f5a3d5a8bb20df5afb37bc83a7f268738d94e25
